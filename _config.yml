@@ -1,31 +1,32 @@
 title: CompSci Blogs
 description: "August 2023 to June 2024"
-owner_name: Jason Gao
-github_username: JasonGao76
+owner_name: Ishraq Hossain
+github_username: Ishraqh1
 baseurl: "/students"
-remote_theme: pages-themes/midnight@v0.2.0
-  # not bad
+remote_theme:
+    pages-themes/tactile@v0.2.0
+    # not bad
 # remote_theme: pages-themes/dinky@v0.2.0
-  # dinky is not too bad
+# dinky is not too bad
 # remote_theme: pages-themes/minimal@v0.2.0
-  # good but how everything is on the right half is kinda meh
+# good but how everything is on the right half is kinda meh
 # remote_theme: pages-themes/hacker@v0.2.0
-  # colors kinda ehhh
+# colors kinda ehhh
 # remote_theme: pages-themes/cayman@v0.2.0
-  # mid margins
+# mid margins
 # remote_theme: pages-themes/time-machine@v0.2.0
-  # time machine is nice
+# time machine is nice
 # remote_theme: pages-themes/merlot@v0.2.0
-  # merlot not bad
+# merlot not bad
 # remote_theme: pages-themes/leap-day@v0.2.0
-  #leap day not bad, maybe try and put stuff on top bar to make it look less empty though
+#leap day not bad, maybe try and put stuff on top bar to make it look less empty though
 # remote_theme: pages-themes/modernist@v0.2.0
-  # modernist not bad as well, font size, spacing, and side margins kinda interesting though
+# modernist not bad as well, font size, spacing, and side margins kinda interesting though
 # remote_theme: pages-themes/slate@v0.2.0
-  # no
+# no
 # remote_theme: pages-themes/tactile@v0.2.0
-  # margins are very mid
+# margins are very mid
 # maybe try making a custom theme for fun?
 plugins:
-- jekyll-remote-theme
+    - jekyll-remote-theme
 future: true
