@@ -45,6 +45,19 @@ courses: { compsci: { week: 24 } }
 
 > Project work. Student follows team requirements and expectations. They are active in the Scrum work and timelines. They produce code early enough to all Pull request integrations and testing, e.g. two days in advance of Teacher review.
 
+- Instructions for input from one of the following: the user, a device, an online datas stream, a file: <img src="../../../images/Screenshot 2024-03-14 at 1.12.26 PM.png">
+
+- Use of at least one list (or other collection type) to represent a collection of data that is stored and used to manage program complexity and help fulfill the users purpose: <img src="../../../images/Screenshot 2024-03-14 at 1.13.46 PM.png">
+
+- At least one procedure that contributed to the program’s intended purpose where you have defined: the name, return type, one or more parameters: <img src="../../../images/Screenshot 2024-03-14 at 1.15.40 PM.png">
+
+- An algorithm that includes sequencing, selection, and iteration that is in the body of the selected procedure: <img src="../../../images/Screenshot 2024-03-14 at 1.17.22 PM.png">
+
+- Calls to your student-developed prodcedure: <img src="../../../images/Screenshot 2024-03-14 at 1.18.24 PM.png">
+
+- Instructions for output (tactile, audible, visual, or ) based on input and program functionality: <img src="../../../images/Screenshot 2024-03-14 at 1.19.16 PM.png">
+
+
 - ADDED AP COLLEGE BOARD SCREEN SHOTS INTO THIS RIGHT HERE AND THEN UR DONE 
 
 > Deployment (not required by I thought I'd mention this)
